@@ -11,3 +11,9 @@ Steps:
 6. Run the tool
 
 ![]( https://github.com/shmulik-willinger/cryptocurrency_arbitrage/blob/master/output_plt.jpg?raw=true)
+
+
+In order to run the code:
+1. clone the repo
+2. run 'pip install gdax' (other dependencies: requests, numpy, matplotlib, smtplib)
+3. run the jupyter notebook
